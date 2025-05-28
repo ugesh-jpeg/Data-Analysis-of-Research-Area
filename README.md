@@ -1,4 +1,5 @@
 🧪 Lagged Correlation Analysis Between COVID-19 Vaccination and ICU Admissions
+
 📌 Overview
 This project investigates the relationship between COVID-19 vaccination rates and ICU admissions in Singapore (2023–2024). Using weekly epidemiological data, the analysis explores the timing and effectiveness of vaccinations in mitigating severe health outcomes.
 
